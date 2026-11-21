@@ -1,0 +1,8 @@
+# master clips are large; rebuild them with tools/make_clips.py
+clips/
+__pycache__/
+*.pyc
+*.trf
+.DS_Store
+Thumbs.db
+desktop.ini
